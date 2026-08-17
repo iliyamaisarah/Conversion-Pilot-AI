@@ -149,7 +149,8 @@ Key findings from the dashboard include:
 * The United States generated the highest revenue at approximately **$21M**
 * The United Kingdom and India were also among the significant markets
 
-<img width="1381" height="771" alt="image" src="https://github.com/user-attachments/assets/4c32d48e-09da-4a79-bb66-82f0b6fd1c16" />
+<img width="1370" height="771" alt="image" src="https://github.com/user-attachments/assets/a4b99a78-98af-4cb5-a924-5ee79a684284" />
+
 
 
 ---
