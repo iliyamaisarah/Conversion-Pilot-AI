@@ -135,7 +135,8 @@ The Power BI dashboard was developed to provide an overview of e-commerce perfor
 
 ### Dashboard Preview
 
-![E-commerce Dashboard](images/ecommerce-dashboard.png)
+<img width="1380" height="770" alt="image" src="https://github.com/user-attachments/assets/15026aca-2a1a-4e70-b5b3-f61303aa485c" />
+
 
 ---
 
@@ -148,7 +149,8 @@ Key findings from the dashboard include:
 * The United States generated the highest revenue at approximately **$21M**
 * The United Kingdom and India were also among the significant markets
 
-![Sales Analysis](images/sales-analysis.png)
+<img width="1381" height="771" alt="image" src="https://github.com/user-attachments/assets/4c32d48e-09da-4a79-bb66-82f0b6fd1c16" />
+
 
 ---
 
@@ -183,7 +185,8 @@ The dashboard analysed customer activity and traffic sources.
 * Organic and direct channels were among the top traffic sources
 * Average interactions per user: **38.15 clicks**
 
-![Traffic Analysis](images/traffic-analysis.png)
+<img width="1377" height="772" alt="image" src="https://github.com/user-attachments/assets/c4c9bb42-c561-45c7-96b8-c1069645dd6a" />
+
 
 ---
 
@@ -197,7 +200,7 @@ High-performing product categories included:
 * Fashion
 * Home & Kitchen
 
-![Customer Insights](images/customer-insights.png)
+<img width="1370" height="772" alt="image" src="https://github.com/user-attachments/assets/04ef2863-a2af-447e-9fab-bc680062d679" />
 
 ---
 
