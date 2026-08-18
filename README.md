@@ -317,21 +317,15 @@ Based on the analysis, several recommendations were proposed:
 
 ---
 
-# 📁 Project Structure
-
-```text
-conversion-pilot-ai/
+📁 Project Structure
+Conversion-Pilot-AI/
 │
 ├── README.md
 │
 ├── notebooks/
-│   └── data_preprocessing.ipynb
-│
-├── powerbi/
-│   └── Conversion_Pilot_AI.pbix
+│   └── Ecommerce_Hackathon.ipynb
 │
 ├── images/
-│   ├── system-architecture.png
 │   ├── ecommerce-dashboard.png
 │   ├── sales-analysis.png
 │   ├── traffic-analysis.png
@@ -339,7 +333,8 @@ conversion-pilot-ai/
 │
 └── documentation/
     └── project-documentation.pdf
-```
+
+The Power BI .pbix file is not included in this repository due to its file size. Dashboard screenshots are provided to showcase the visualization and analysis work.
 
 ---
 
