@@ -317,7 +317,9 @@ Based on the analysis, several recommendations were proposed:
 
 ---
 
-📁 Project Structure
+# 📁 Project Structure
+
+```text
 Conversion-Pilot-AI/
 │
 ├── README.md
@@ -333,9 +335,10 @@ Conversion-Pilot-AI/
 │
 └── documentation/
     └── project-documentation.pdf
+```
 
-The Power BI .pbix file is not included in this repository due to its file size. Dashboard screenshots are provided to showcase the visualization and analysis work.
----
+> The Power BI `.pbix` file is not included in this repository due to its file size. Dashboard screenshots are provided to showcase the visualization and analysis work.
+
 ---
 
 # ⚠️ Challenges & Limitations
